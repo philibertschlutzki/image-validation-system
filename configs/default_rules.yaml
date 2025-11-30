@@ -1,0 +1,8 @@
+validation_rules:
+  brightness:
+    min_value: 50
+    max_value: 200
+  sharpness:
+    min_value: 100.0
+  dominant_color_ratio:
+    dominant_color_threshold: 0.2
